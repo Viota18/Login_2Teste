@@ -1,0 +1,38 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bungee&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+
+body{
+    text-align: center;
+}
+
+
+.IMAGEMLOGOGOOGLE{
+    border-radius: 50%;
+
+
+}
+
+
+.input{
+
+    text-align: center;
+
+}
+
+.BOTAO {
+    height: 50px;
+    width: 100px;
+    background-color: rgb(229, 255, 0);
+    font-size: 15px;
+    border: 0;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 10px;
+    cursor: pointer;
+
+
+
+
+
+}
